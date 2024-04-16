@@ -1,4 +1,5 @@
 # 噪声标签下的三维模型分类方法
+![Model Structure](imgs/Model.png)
 1. 数据处理
    1. 3DWebNet(views=12)
 
